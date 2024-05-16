@@ -39,9 +39,6 @@ This project aims to analyze survival factors during the sinking of the RMS Tita
 
 
 
-
-
-
 ## Introduction
 The Titanic Case Study analyzes survival patterns among passengers and builds a predictive model for ticket prices based on passenger attributes.
 ## Installation
