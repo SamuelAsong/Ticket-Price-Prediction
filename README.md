@@ -1,77 +1,111 @@
 
-# Titanic Ticket Price Prediction
-
-The Titanic Case Study analyzes survival patterns among passengers and builds a predictive model for ticket prices based on passenger attributes
-
-
-## 🔗 Links
-
-[![linkedin](https://www.linkedin.com/in/samuel-asong-96907414/logoColor=white)](https://www.linkedin.com/)
-
-
 ## 🚀 About Me
-I'm transitioning into a Data Analyst...
+I'm Data Analyst...
 
 
 # Hi, I'm Sam! 👋
 
 
-## Titanic Case Study
+## 🔗 Links
+[![linkedin](https://https://www.linkedin.com/in/samuel-asong-96907414/)](https://www.linkedin.com/)
 
-Titanic Case Study
-This project aims to analyze survival factors during the sinking of the RMS Titanic in 1912 and build a regression model to predict ticket prices.
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on Binary classification...
+
+🧠 I'm currently learning LPI Sprint Planning & Engineering Demo Sessions.
+
+👯‍♀️ I'm looking to collaborate on...
+
+🤔 I'm looking for help with my upcoming Data Science Projects.
+
+💬 Ask me about...improving altruism
+
+📫 How to reach me via email samuel.asong@gmail.com
+
+😄 Pronouns he/him/his
+
+⚡️ Fun fact love playing DLS24
+
+
+
+
+# Dollar Tree Customer Gender Prediction
+
+This project involves training a machine learning model to predict whether a customer is male or female based on the Dollar Tree dataset.
+
+## Authors
+
+- [@SamuelAsong](https://www.github.com/SamuelAsong)
+
+
+
 
 ## Table of Contents
 
-
-
-1. )[Introduction](#introduction)
+1. [Introduction](#introduction)
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Data](#data)
 5. [Preprocessing](#preprocessing)
-6. [Exploratory Data Analysis (EDA)](exploratoryDataAnalysis (EDA))
-7. [Model Building](#ModelBuilding)
-8. [Evaluation](Evaluation)
+6. [Training](#training)
+7. [Evaluation](#evaluation)
+8. [Results](#results)
 9. [Conclusion](#conclusion)
 10. [Acknowledgements](#acknowledgements)
 11. [License](#license)
 
-
-
 ## Introduction
-The Titanic Case Study analyzes survival patterns among passengers and builds a predictive model for ticket prices based on passenger attributes.
+
+The purpose of this project is to build and evaluate a machine learning model that can predict the gender of Dollar Tree customers based on various features such as age, country, product category, quantity, and revenue.
+
+
 ## Installation
-To run this project, ensure you have Python 3.x installed along with the required libraries:
--	pandas
--	scikit-learn
--	matplotlib
--	seaborn
+
+To run this project, you will need Python 3.x along with the following libraries:
+
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+
 You can install these libraries using pip:
-bash
-Copy code
-pip install pandas scikit-learn matplotlib seaborn 
+
+pip install pandas scikit-learn matplotlib seaborn
+
+
 ## Usage
-After installing the required libraries, run the main Python script to execute the project.
+
+After installing the required libraries, you can run the project by executing the main Python script. Make sure to replace main.py with the actual name of your Python script
+
 ## Data
-The dataset titanic.csv contains passenger information such as survival status, ticket class, sex, age, family relations, fare, cabin, and embarkation port.
+
+The dataset used in this project contains information about Dollar Tree customers, including their age, country, product category, quantity, revenue, and gender (target variable). The data is stored in a CSV file named dollar_tree_data.csv.
 
 ## Preprocessing
-Before model training, the data undergoes preprocessing steps like handling missing values and encoding categorical variables.
 
-## Exploratory Data Analysis (EDA)
-EDA includes visualizations and analyses of survival rates based on factors like sex, passenger class, and age distribution.
+Before training the model, the data undergoes preprocessing steps such as handling missing values, encoding categorical variables using one-hot encoding, and splitting the data into training and testing sets.
 
-## Model Building
-The project builds regression models to predict ticket prices and classification models to analyze survival factors.
+## Training
+
+The machine learning model is trained using various algorithms, such as logistic regression, decision tree, or random forest. Hyperparameters are tuned using techniques like grid search or random search.
 
 ## Evaluation
-Model performance is evaluated using metrics like accuracy, precision, recall, and F1-score, along with visualizations like confusion matrices and classification reports.
+
+The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score. Visualizations such as confusion matrices and classification reports are generated to assess the model's strengths and weaknesses.
+
+## Results
+
+The results of the model evaluation are presented, including visualizations and key findings regarding the model's predictive capabilities and areas for improvement.
 
 ## Conclusion
-The Titanic Case Study provides insights into survival factors and ticket price prediction, highlighting the importance of data analysis in historical events.
+
+In conclusion, this project demonstrates the process of building and evaluating a machine learning model for customer gender prediction using the Dollar Tree dataset. Future work may involve exploring additional features, optimizing model performance, and deploying the model in real-world applications.
+
 
 ## Acknowledgements
+
 - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 
 
@@ -83,18 +117,8 @@ The Titanic Case Study provides insights into survival factors and ticket price 
 - **Azubia Africa:** I acknowledge [Azubia Africa](https://www.azubiafrica.org) for providing support and resources for this project.
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
 This project is licensed under the MIT License
-
-
-
-
-
-
-
-
-
-
-
